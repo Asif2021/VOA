@@ -1,0 +1,19 @@
+install composer
+run ampp and create a db in phpmyadmin with name voa and import voa.sql file
+place voa folder to htdocs folder in xampp folder
+open voa folder and run command line interface
+rum command "composer update" in cmd and wait for completion
+hit url http://localhost/voa/public/
+
+User IDs
+for admin: admin@voa.com
+password: secret
+
+for teacher: teacher1@voa.com
+password: secret
+
+for student1: bc140402040@voa.com
+password: secret
+
+for student2: bc130402634@voa.com
+password: secret
